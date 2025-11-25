@@ -1,3 +1,5 @@
+//Tayseer Zeer
+//213322654
 #include<opencv2/opencv.hpp>//OpenCV header to use VideoCapture class//
 #include<iostream>
 using namespace std;
